@@ -2,19 +2,15 @@
 
 I'm a PhD student in Statistics @ Columbia University — working at the intersection of **deep learning**, **computer vision**, and **computational neuroscience**. 
 
-🧠 I spend most of my time thinking about:
+🧠 I am passionate about:
 - Deep learning for video-based behavior analysis
 - Multiview computer vision and pose estimation
 - Machine learning for biomedical signal processing
 
 Before all this, I was a pro soccer player. Now I’m training algorithms instead of abs ⚽➜📊
 
----
-
-📫 Reach out:
-- GitHub: [@lennyaharon](https://github.com/lennyaharon)
-- Email: [la2872@columbia.edu](mailto:la2872@columbia.edu)
-- LinkedIn: [linkedin.com/in/lennyaharon](https://www.linkedin.com/in/lennyaharon)
+You can reach out here:  
+📫 [GitHub](https://github.com/lennyaharon) • [Email](mailto:la2872@columbia.edu) • [LinkedIn](https://linkedin.com/in/lennyaharon)
 
 
 
