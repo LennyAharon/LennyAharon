@@ -3,9 +3,9 @@
 I'm a PhD student in Statistics @ Columbia University — working at the intersection of **deep learning**, **computer vision**, and **computational neuroscience**. 
 
 🧠 I am passionate about:
-- Deep learning for video-based behavior analysis
-- Multiview computer vision and pose estimation
-- Machine learning for biomedical signal processing
+- Behavioral analysis from video using deep learning and transformers
+- Multiview pose estimation with Ensemble Kalman Smoothing (EKS)
+- Building machine learning pipelines to classify high-dimensional biomedical signals
 
 Before all this, I was a pro soccer player. Now I’m training algorithms instead of abs ⚽➜📊
 
