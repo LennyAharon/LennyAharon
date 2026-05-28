@@ -1,16 +1,7 @@
 ## 👋 Hi, I'm Lenny Aharon
 
-I'm a PhD student in Statistics @ Columbia University — working at the intersection of **deep learning**, **computer vision**, and **computational neuroscience**. 
-
-🧠 I am passionate about:
-- Behavioral analysis from video using deep learning and transformers
-- Multiview pose estimation with Ensemble Kalman Smoothing (EKS)
-- Building machine learning pipelines to classify high-dimensional biomedical signals
-
-Before all this, I was a pro soccer player. Now I’m training algorithms instead of abs ⚽➜📊
-
 You can reach out here:  
-📫 [GitHub](https://github.com/lennyaharon) • [Email](mailto:la2872@columbia.edu) • [LinkedIn](https://linkedin.com/in/lennyaharon)
+📫 [GitHub](https://github.com/lennyaharon) • [Email](mailto:lenny.aharon@columbia.edu) • [LinkedIn](https://linkedin.com/in/lennyaharon) • [Website](https://lennyaharon.github.io/)
 
 
 
@@ -27,4 +18,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+I'm a PhD student in Statistics @ Columbia University — working at the intersection of **deep learning**, **computer vision**, and **computational neuroscience**. 
+
+🧠 I am passionate about:
+- Behavioral analysis from video using deep learning and transformers
+- Multiview pose estimation with Ensemble Kalman Smoothing (EKS)
+- Building machine learning pipelines to classify high-dimensional biomedical signals
+
+Before all this, I was a pro soccer player. Now I’m training algorithms instead of abs ⚽➜📊
 -->
